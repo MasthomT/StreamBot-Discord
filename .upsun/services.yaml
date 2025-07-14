@@ -1,3 +1,0 @@
-db:
-   type: PostgreSQL:14
-   disk: 256
